@@ -1,0 +1,16 @@
+$primary-color: #b746cd;
+
+.container {
+  text-align: center;
+  margin-top: 4.5em;
+
+  .logo {
+    width: 150px;
+    margin-bottom: 1.5em;
+  }
+
+  h1 {
+    color: $primary-color;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+}
